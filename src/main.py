@@ -1,2 +1,1 @@
-
-empty text
+print('hello world')
